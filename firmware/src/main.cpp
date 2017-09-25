@@ -56,7 +56,7 @@
 #include "gpio.h"
 
 /* USER CODE BEGIN Includes */
-
+#include "libstm32/app/app.h"
 /* USER CODE END Includes */
 
 /* Private variables ---------------------------------------------------------*/
