@@ -57,6 +57,7 @@
 
 /* USER CODE BEGIN Includes */
 #include "libstm32/app/app.h"
+#include "SensorApp.h"
 /* USER CODE END Includes */
 
 /* Private variables ---------------------------------------------------------*/
@@ -82,6 +83,7 @@ int main(void)
 {
 
   /* USER CODE BEGIN 1 */
+	SensorApp TheApp;
 
   /* USER CODE END 1 */
 
