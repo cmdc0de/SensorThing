@@ -1,0 +1,18 @@
+http://playground.arduino.cc/Main/MPU-6050
+http://www.dxsoul.com/product/gy-521-mpu6050-3-axis-acceleration-gyroscope-6dof-module-blue-901154602#.VxCnWDArKCo
+
+Model: GY-521
+- Color: Blue
+- Material: PCB + Plastic + copper
+- Chip: MPU-6050
+- Power supply: 3~5V
+- Communication mode: standard IIC communication protocol
+- Chip built-in 16bit AD converter, 16bit data output
+- Gyroscopes range: +/- 250 500 1000 2000 degree/sec
+- Acceleration range: +/- 2g, +/- 4g, +/- 8g, +/- 16g
+- Immersion Gold plating PCB, machine welding process to ensure quality
+- Pin pitch: 2.54mm
+- Great for DIY projects
+- Packing list:
+- 1 x Module
+- 2 x Pins
