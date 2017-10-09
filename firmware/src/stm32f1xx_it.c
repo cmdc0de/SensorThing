@@ -275,5 +275,13 @@ void EXTI15_10_IRQHandler(void)
 
 /* USER CODE BEGIN 1 */
 
+void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) {
+	if(GPIO_PIN_10==GPIO_Pin) {
+		//HCSR04-Echo
+	} else if (GPIO_PIN_12==GPIO_Pin) {
+		//MICROWAVE_MOVEMENT_SENOR
+	}
+}
+
 /* USER CODE END 1 */
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/

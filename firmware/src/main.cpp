@@ -131,7 +131,7 @@ int main(int arc, char *argv[]) {
 		}
 	}
 	/* USER CODE END 3 */
-
+	return 0;
 }
 
 /** System Clock Configuration
